@@ -19,18 +19,22 @@ My research proposal develops a mixed-methods framework to examine policy mechan
 ---
 
 ## Selected Projects
+### Academic Research
+-**Master's Thesis** Community Land Trusts & Neighbourhood Planning (UK)
+*   *Description*: An MSc thesis investigating how community-led organizations reshape formal housing policies, based on a collective case study in Cornwall.
+*   *Methology*: Policy Analysis, Semi-structured Interviews, Comparative Case Study / 政策分析、半结构化访谈、案例比较研究
 
-### Community Land Trusts & Neighbourhood Planning (UK)
-*   **Description**: An MSc thesis investigating how community-led organizations reshape formal housing policies, based on a collective case study in Cornwall.
-*   **Methology**: Policy Analysis, Semi-structured Interviews, Comparative Case Study / 政策分析、半结构化访谈、案例比较研究
+**[Spatial Analysis of Convenience Stores (Beijing)| 便利店空间分析]**(https://github.com/zheyu-Julie-Liu/qgis-data-analysis-writing-sample/blob/main/paper.md)`
+*   *Description*: A data analytics project modelling the correlation between convenience store distribution (POI) and socio-economic profiles within Beijing's 2nd Ring Road.
+*   *Methology*: Kernel Density, DBSCAN Clustering, Spearman’s Correlation, Multiple Linear Regression / 核密度分析、DBSCAN聚类、斯皮尔曼相关、多元线性回归
+*   *Tech*: Python (Pandas, GeoPandas, Scikit-learn)
 
-### Spatial Analysis of Convenience Stores (Beijing) | 便利店空间分析(zheyu-Julie-Liu/qgis-data-analysis-writing-sample/paper.md)
-*   **Description**: A data analytics project modelling the correlation between convenience store distribution (POI) and socio-economic profiles within Beijing's 2nd Ring Road.
-*   **Methology**: Kernel Density, DBSCAN Clustering, Spearman’s Correlation, Multiple Linear Regression / 核密度分析、DBSCAN聚类、斯皮尔曼相关、多元线性回归
-*   **Tech**: Python (Pandas, GeoPandas, Scikit-learn)
-
-### Cultural-Economic Strategy (China) | 文化经济战略
-*   **Description**: Professional experience in cultural gene mining (文化基因挖掘) and strategy development for projects in Suzhou and Anji, transforming historical narratives into place-branding and industrial strategies. 
+### Professional Collaborations 
+**Cultural-Economic Strategy Collaboration | 文化经济战略合作**
+*   *Description*: Collaborated with Professor Hua Yixiong(华亦雄教授) from Jiangnan University on cultural gene mining (文化基因挖掘), identifying and interpreting cultural assets—including folklore, historical anecdotes, and literary references associated with local heritage sites—to build foundational IP for tourism and place branding.
+*   *Methodology*: Cultural asset mapping, historical & literary archival research, narrative extraction, IP structuring, brand positioning
+*   *Focus*: Transforming intangible cultural heritage into actionable content strategies for regional development (Note: Specific regional applications remain confidential)
+*   *Outcome*: Established a transferable methodology for cultural IP development and narrative-driven placemaking
 ---
 
 ## Project in Work
