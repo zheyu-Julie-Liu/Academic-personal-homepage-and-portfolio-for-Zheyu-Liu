@@ -20,7 +20,7 @@ My research proposal develops a mixed-methods framework to examine policy mechan
 
 ## Selected Projects
 ### Academic Research
--**Master's Thesis** Community Land Trusts & Neighbourhood Planning (UK)
+**[Master's Thesis Community Land Trusts & Neighbourhood Planning (UK)](zheyu-Julie-Liu/projects/master-thesis.md)**
 *   *Description*: An MSc thesis investigating how community-led organizations reshape formal housing policies, based on a collective case study in Cornwall.
 *   *Methology*: Policy Analysis, Semi-structured Interviews, Comparative Case Study / 政策分析、半结构化访谈、案例比较研究
 
