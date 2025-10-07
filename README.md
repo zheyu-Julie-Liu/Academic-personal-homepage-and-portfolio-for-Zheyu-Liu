@@ -35,7 +35,7 @@ My research proposal develops a mixed-methods framework to examine policy mechan
 
 ## Project in Work
 
-###  Institutional Friction: Rescaling, Burnout, and Policy Implementation in China's Spatial Governance
+###  [《制度性摩擦与中国基层治理》研究计划](./projects/institutional-friction.md)
 *   **Description**:This theory-building project investigates the paradox between China's state-rescaling reforms and policy stagnation at the township level. I propose the concept of "institutional friction" to bridge Neil Brenner's macro-scale theory with micro-level burnout research, offering an integrated explanatory framework for grassroots governance dilemmas.
 *    **Status**: Preparing for journal submission & PhD application.
 ---
