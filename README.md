@@ -14,12 +14,6 @@ My research proposal develops a mixed-methods framework to examine policy mechan
 我是一名空间规划师及博士申请人，专注于研究中国城市转型中的基层治理与政策执行。我拥有牛津布鲁克斯大学的硕士学位及四年中国战略咨询经验，擅长运用混合研究方法——结合空间分析（GIS）、计算工具（Python）与深度案例研究——来探究文化、社区与制度如何相互作用并塑造城市空间。
 我的研究计划旨在构建一个混合方法框架，以考察文化引领的城市更新中的政策机制与社区动态，力求融合数据驱动分析与定性洞察，为推动更高效、更包容的治理模式提供学术支持。
 
-## 📄 Download My CV
-
-[![Download PDF](https://img.shields.io/badge/Download-My_CV_PDF-blue.svg)](./projects/zheyuLIU_cv.pdf)
-
-*Click the button above to download the complete thesis in PDF format*
-
 
 
 ---
@@ -30,7 +24,7 @@ My research proposal develops a mixed-methods framework to examine policy mechan
 *   *Description*: An MSc thesis investigating how community-led organizations reshape formal housing policies, based on a collective case study in Cornwall.
 *   *Methology*: Policy Analysis, Semi-structured Interviews, Comparative Case Study / 政策分析、半结构化访谈、案例比较研究
 
-**[Spatial Analysis of Convenience Stores (Beijing)| 便利店空间分析](zheyu-Julie-Liu/qgis-data-analysis-writing-sample/blob/main/paper.md)**
+**[Spatial Analysis of Convenience Stores (Beijing)| 便利店空间分析](https://github.com/zheyu-Julie-Liu/qgis-data-analysis-writing-sample/blob/1aae6abb50b3983e3c3bd04f88d0efc2a296b58e/README.md)**
 *   *Description*: A data analytics project modelling the correlation between convenience store distribution (POI) and socio-economic profiles within Beijing's 2nd Ring Road.
 *   *Methology*: Kernel Density, DBSCAN Clustering, Spearman’s Correlation, Multiple Linear Regression / 核密度分析、DBSCAN聚类、斯皮尔曼相关、多元线性回归
 *   *Tech*: Python (Pandas, GeoPandas, Scikit-learn)
@@ -79,6 +73,10 @@ graph TD
     D --> D2[Cultural-Economic Strategy 文化经济战略];
     D --> D3[Urban Regeneration 城市更新];
 ```		
+## 📄 Download My CV
+
+[![Download PDF](https://img.shields.io/badge/Download-My_CV_PDF-blue.svg)](./projects/zheyuLIU_cv.pdf)
+
 
 
 I am open to connecting with researchers, practitioners, and potential collaborators. Feel free to reach out for discussion or opportunities.
