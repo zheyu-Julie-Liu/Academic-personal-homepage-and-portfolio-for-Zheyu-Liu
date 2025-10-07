@@ -1,6 +1,5 @@
 # Academic-personal-homepage-and-portfolio-for-Zheyu-Liu
-PhD Applicant in Spatial Governance. Research on culturally-led urban regeneration using mixed methods (GIS, Python, Case Study). 
-文化赋能城市更新
+Urban Governance & Community Development | Mixed-Methods Research (GIS, Python, Case Study）
 
 # Zheyu (Julie) Liu
 
@@ -10,12 +9,12 @@ PhD Applicant in Spatial Governance. Research on culturally-led urban regenerati
 
 ## Research Profile
 
-A spatial planner with a Master's degree from Oxford Brookes University and **four years of professional experience** in strategic consulting across China. My practical work in cultural-economic strategy and industrial planning has directly **informed and solidified** my research interests, driving me to pursue a PhD to investigate the underlying mechanisms of the urban phenomena I engaged with.
+A spatial planner and PhD applicant specializing in grassroots governance and policy implementation within China’s urban transformation. With a Master’s from Oxford Brookes University and four years of strategic consulting experience in China, I leverage mixed-methods research—integrating spatial analysis (GIS), computational tools (Python), and in-depth case studies—to investigate how culture, community, and institutions interact in shaping urban spaces.
+My research proposal develops a mixed-methods framework to examine policy mechanisms and community dynamics in culturally-led urban regeneration, seeking to bridge data-driven analysis and qualitative insights for more effective and inclusive governance.
+我是一名空间规划师及博士申请人，专注于研究中国城市转型中的基层治理与政策执行。我拥有牛津布鲁克斯大学的硕士学位及四年中国战略咨询经验，擅长运用混合研究方法——结合空间分析（GIS）、计算工具（Python）与深度案例研究——来探究文化、社区与制度如何相互作用并塑造城市空间。
+我的研究计划旨在构建一个混合方法框架，以考察文化引领的城市更新中的政策机制与社区动态，力求融合数据驱动分析与定性洞察，为推动更高效、更包容的治理模式提供学术支持。
 
-我是一名空间规划师，拥有牛津布鲁克斯大学硕士学位及四年中国战略咨询行业经验。在文化经济策略与产业规划领域的实践工作，直接**启发并坚定了**我的研究兴趣，推动我申请博士项目，以深入探究我所接触的城市现象背后的内在机制。
 
-My research proposes a mixed-methods framework to study **culturally-led urban regeneration** and **spatial governance**, bridging data-driven analysis and qualitative insights.
-我的研究旨在采用混合方法论，构建一个连接数据驱动分析与定性洞察的框架，以探究**文化引领的城市更新**与**空间治理**。
 
 ---
 
@@ -31,11 +30,17 @@ My research proposes a mixed-methods framework to study **culturally-led urban r
 *   **Tech**: Python (Pandas, GeoPandas, Scikit-learn)
 
 ### Cultural-Economic Strategy (China) | 文化经济战略
-*   **Description**: Professional experience in cultural gene mining (文化基因挖掘) and strategy development for projects in Suzhou and Anji, transforming historical narratives into place-branding and industrial strategies.
-
+*   **Description**: Professional experience in cultural gene mining (文化基因挖掘) and strategy development for projects in Suzhou and Anji, transforming historical narratives into place-branding and industrial strategies. 
 ---
 
-### Skills / 技能
+## Project in Work
+
+###  Institutional Friction: Rescaling, Burnout, and Policy Implementation in China's Spatial Governance
+*   **Description**:This theory-building project investigates the paradox between China's state-rescaling reforms and policy stagnation at the township level. I propose the concept of "institutional friction" to bridge Neil Brenner's macro-scale theory with micro-level burnout research, offering an integrated explanatory framework for grassroots governance dilemmas.
+*    **Status**: Preparing for journal submission & PhD application.
+---
+
+## Skills / 技能
 ### Skills & Methodology / 技能与方法论
 
 ```mermaid
