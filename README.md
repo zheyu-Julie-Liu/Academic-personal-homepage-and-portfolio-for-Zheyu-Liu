@@ -24,7 +24,7 @@ My research proposal develops a mixed-methods framework to examine policy mechan
 *   *Description*: An MSc thesis investigating how community-led organizations reshape formal housing policies, based on a collective case study in Cornwall.
 *   *Methology*: Policy Analysis, Semi-structured Interviews, Comparative Case Study / 政策分析、半结构化访谈、案例比较研究
 
-**[Spatial Analysis of Convenience Stores (Beijing)| 便利店空间分析]**(https://github.com/zheyu-Julie-Liu/qgis-data-analysis-writing-sample/blob/main/paper.md)`
+**[Spatial Analysis of Convenience Stores (Beijing)| 便利店空间分析](zheyu-Julie-Liu/qgis-data-analysis-writing-sample/blob/main/paper.md)**
 *   *Description*: A data analytics project modelling the correlation between convenience store distribution (POI) and socio-economic profiles within Beijing's 2nd Ring Road.
 *   *Methology*: Kernel Density, DBSCAN Clustering, Spearman’s Correlation, Multiple Linear Regression / 核密度分析、DBSCAN聚类、斯皮尔曼相关、多元线性回归
 *   *Tech*: Python (Pandas, GeoPandas, Scikit-learn)
