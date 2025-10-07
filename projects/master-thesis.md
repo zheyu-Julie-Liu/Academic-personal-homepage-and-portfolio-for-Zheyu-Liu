@@ -87,7 +87,7 @@ This final chapter summarizes the research findings, discusses limitations, and 
 
 ## 📄 Download Full Thesis
 
-[![Download PDF](https://img.shields.io/badge/Download-Full_Thesis_PDF-blue.svg)](./projects/master_dissertation_on_CLT_2019.pdf)
+[![Download PDF](https://img.shields.io/badge/Download-Full_Thesis_PDF-blue.svg)](./master_dissertation_on_CLT_2019.pdf)
 
 *Click the button above to download the complete thesis in PDF format*
 
