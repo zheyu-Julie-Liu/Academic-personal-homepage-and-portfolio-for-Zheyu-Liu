@@ -9,9 +9,9 @@ Urban Governance & Community Development | Mixed-Methods Research (GIS, Python, 
 
 ## Research Profile
 
-A spatial planner and PhD applicant specializing in grassroots governance and policy implementation within China’s urban transformation. With a Master’s from Oxford Brookes University and four years of strategic consulting experience in China, I leverage mixed-methods research—integrating spatial analysis (GIS), computational tools (Python), and in-depth case studies—to investigate how culture, community, and institutions interact in shaping urban spaces.
+A spatial planner and PhD applicant specializing in grassroots governance and policy implementation within China’s urban transformation. With a Master’s from Oxford Brookes University and three years of strategic consulting experience in China,experienced in turning strategy and industrial development case studies into action plan for implementers and regulators.I leverage mixed-methods research—integrating spatial analysis (GIS), computational tools (Python), and in-depth case studies—to investigate how culture, community, and institutions interact in shaping urban spaces.
 My research proposal develops a mixed-methods framework to examine policy mechanisms and community dynamics in culturally-led urban regeneration, seeking to bridge data-driven analysis and qualitative insights for more effective and inclusive governance.
-我是一名空间规划师及博士申请人，专注于研究中国城市转型中的基层治理与政策执行。我拥有牛津布鲁克斯大学的硕士学位及四年中国战略咨询经验，擅长运用混合研究方法——结合空间分析（GIS）、计算工具（Python）与深度案例研究——来探究文化、社区与制度如何相互作用并塑造城市空间。
+我是一名空间规划师及博士申请人，专注于研究中国城市转型中的基层治理与政策执行。我拥有牛津布鲁克斯大学的硕士学位及产业咨询从业经验，擅长运用混合研究方法——结合空间分析（GIS）、计算工具（Python）与深度案例研究——来探究文化、社区与制度如何相互作用并塑造城市空间。
 我的研究计划旨在构建一个混合方法框架，以考察文化引领的城市更新中的政策机制与社区动态，力求融合数据驱动分析与定性洞察，为推动更高效、更包容的治理模式提供学术支持。
 
 
