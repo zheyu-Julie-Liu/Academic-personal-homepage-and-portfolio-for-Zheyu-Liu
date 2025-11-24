@@ -39,40 +39,37 @@ My research proposal develops a mixed-methods framework to examine policy mechan
 ## Project in Work
 
 ###  [Research Proposal for: Scalar Restructuring and Grassroots Governance](./projects/institutional-friction.md)
-*    **Current Stage (Manuscript Under Review):** I have established the theoretical foundation of this project in a working paper entitled *尺度重构下的基层治理困境:县域产城更新的“强-弱治理”逻辑与破解路径*. The paper proposes the concept of "governance friction" to bridge macro-state-rescaling and micro-burnout theories, creating a novel framework to explain the paradox of policy stagnation in Chinese townships.
-*    **Future PhD Research:** My doctoral research aims to systematically uncover: Why and how does macro-scale restructuring policy generate friction during its grassroots implementation in China's urban regeneration, and how does this friction ultimately shape governance efficacy and physical spatial outcomes? The next phase of this research, outlined in my Research Statement, will involve a mixed-methods research design, which includes a 	Quantitative Analysis based on Difference-in-Differences (DID) model to find causal evidence on the relevance between policy implementation and the migration patterns of firms. This reserach would also invovle qualitative research based on semi-structured interview to uncover the mechanisms behind the quantitative patterns.
-*    *The literature review component has been developed into a full manuscript 《尺度重构下的基层治理困境:县域产城更新的“强-弱治理”逻辑与破解路径》, currently undergoing external peer review.* 
+*    **Current Stage (Manuscript Under Review):**
+
+I have established the theoretical foundation of this project in a working paper entitled *尺度重构下的基层治理困境:县域产城更新的“强-弱治理”逻辑与破解路径*. The paper proposes the concept of "governance friction" to bridge macro-state-rescaling and micro-burnout theories, creating a novel framework to explain the paradox of policy stagnation in Chinese townships.
+  
+*    **Future PhD Research:**
+    
+My doctoral research aims to systematically uncover: Why and how does macro-scale restructuring policy generate friction during its grassroots implementation in China's urban regeneration, and how does this friction ultimately shape governance efficacy and physical spatial outcomes? The next phase of this research, outlined in my Research Statement, will involve a mixed-methods research design, which includes a 	Quantitative Analysis based on Difference-in-Differences (DID) model to find causal evidence on the relevance between policy implementation and the migration patterns of firms. This reserach would also invovle qualitative research based on semi-structured interview to uncover the mechanisms behind the quantitative patterns.
+*The literature review component has been developed into a full manuscript 《尺度重构下的基层治理困境:县域产城更新的“强-弱治理”逻辑与破解路径》, currently undergoing external peer review.* 
+
 ---
 
-## Skills / 技能
-### Skills & Methodology / 技能与方法论
+## Skills
 
-```mermaid
-graph TD
-    A[My Skills & Methodology 技能体系] --> B[Qualitative Research 定性研究];
-    A --> C[Quantitative & Spatial Analysis 定量与空间分析];
-    A --> D[Domain Knowledge 领域知识];
-    
-    B --> B1[Case Study Research 案例研究];
-    B --> B2[Policy & Text Analysis 政策文本分析];
-    
-    C --> C1[Programming 编程];
-    C --> C2[GIS & Spatial Stats GIS与空间统计];
-    
-    C1 --> C1a[Python];
-    C1a --> C1a1[Pandas: 产业结构分析];
-    C1a --> C1a2[GeoPandas: 空间数据分析];
-    C1a --> C1a3[Scikit-learn: 机器学习模型];
-    
-    C2 --> C2a[ArcGIS / QGIS];
-    C2 --> C2b[Kernel Density 核密度分析];
-    C2 --> C2c[DBSCAN Clustering DBSCAN聚类];
-    C2 --> C2d[Spatial Correlation 空间相关性分析];
-    
-    D --> D1[Spatial Governance 空间治理];
-    D --> D2[Cultural-Economic Strategy 文化经济战略];
-    D --> D3[Urban Regeneration 城市更新];
-```		
+### Qualitative Research
+| Skill Category | Specific Competencies |
+|----------------|----------------------|
+| Case Study Research | Semi-structured interviews, fieldwork, comparative analysis |
+| Policy & Text Analysis | Document analysis, discourse analysis, policy evaluation |
+
+### Quantitative & Spatial Analysis
+| Programming | Spatial Analysis Tools | Statistical Methods |
+|-------------|------------------------|---------------------|
+| **Python**<br>• Pandas - Data analysis & manipulation<br>• GeoPandas - Spatial data analysis<br>• Scikit-learn - Machine learning models | **GIS Platforms**<br>• ArcGIS / QGIS<br> | **Spatial Statistics**<br>• Kernel Density Estimation<br>• DBSCAN Clustering<br>• Spatial correlation analysis<br>• Multiple linear regression |
+
+### Domain Knowledge
+| Domain | Application Areas |
+|--------|-------------------|
+| Spatial Governance | Urban planning, regional development, policy implementation |
+| Cultural-Economic Strategy | Cultural asset mapping, place branding, heritage development |
+| Urban Regeneration | Community-led development, housing policies, sustainable cities |
+
 ## 📄 Download My CV
 
 [![Download PDF](https://img.shields.io/badge/Download-My_CV_PDF-blue.svg)](./projects/zheyuLIU_cv.pdf)
