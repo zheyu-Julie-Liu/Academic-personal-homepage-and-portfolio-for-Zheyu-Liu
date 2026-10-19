@@ -1,58 +1,281 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="zh-CN">
 <head>
-    <meta charset="UTF-8">
-    <title>Zheyu Liu - Academic Homepage</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="style.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Zheyu (Julie) Liu · 哲思创意创始人 — 文旅 × 生态 游戏化互动产品</title>
+  <meta name="description" content="Julie Liu（刘哲雨的 GitHub 主页）· 哲思创意 Sophi Interactive 创始人。文旅 × 生态场景的游戏化互动产品:芦苇荡观鸟模拟器、番禺公园故事地图、拾秋游戏。Gamified interactive products for tourism & conservation.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@500;700;900&family=Noto+Sans+SC:wght@400;500;700&family=Playfair+Display:ital,wght@0,600;0,800;1,600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <div class="container">
-        <header>
-            <h1>Zheyu Liu</h1>
-            <p class="subtitle">Academic Personal Homepage & Portfolio</p>
-        </header>
-        <nav>
-            <a href="#about">About</a>
-            <a href="#research">Research</a>
-            <a href="#cv">CV</a>
-            <a href="#contact">Contact</a>
-        </nav>
-        <main>
-            <section id="about">
-                <h2>About Me</h2>
-                <p>
-                    Welcome! I am Zheyu Liu, a researcher in [Your Field/Department/Institution]. My work focuses on [short description of your focus/interests]. This homepage shares my research, publications, and contact information.
-                </p>
-            </section>
-            <section id="research">
-                <h2>Research & Projects</h2>
-                <ul>
-                    <li>
-                        <strong>GIS Analysis Project:</strong>
-                        <a href="https://github.com/zheyu-Julie-Liu/[YOUR-GIS-REPO]">View on GitHub</a>
-                        <br>
-                        <span class="description">[Short description of your GIS project or other research highlights.]</span>
-                    </li>
-                </ul>
-            </section>
-            <section id="cv">
-                <h2>Curriculum Vitae</h2>
-                <p>
-                    <a href="cv.pdf" target="_blank">Download my CV (PDF)</a>
-                </p>
-            </section>
-            <section id="contact">
-                <h2>Contact</h2>
-                <ul>
-                    <li>Email: [your-email@university.edu]</li>
-                    <li>GitHub: <a href="https://github.com/zheyu-Julie-Liu" target="_blank">zheyu-Julie-Liu</a></li>
-                </ul>
-            </section>
-        </main>
-        <footer>
-            <p>&copy; 2025 Zheyu Liu</p>
-        </footer>
+
+  <header class="site-nav" id="top">
+    <div class="nav-inner">
+      <a href="#top" class="brand">
+        <img src="images/logo.png" alt="" class="brand-mark" aria-hidden="true">
+        <span class="brand-text"><span class="brand-cn">Julie Liu</span><span class="brand-en">Sophi Interactive · Founder</span></span>
+      </a>
+      <nav class="nav-links" aria-label="主导航">
+        <a href="#about">关于<span class="en">About</span></a>
+        <a href="#product">作品<span class="en">Work</span></a>
+        <a href="#opensource">开源<span class="en">Open Source</span></a>
+        <a href="#news">动态<span class="en">News</span></a>
+        <a href="#research">研究<span class="en">Research</span></a>
+        <a href="#contact">联系<span class="en">Contact</span></a>
+        <a href="https://zheyu-julie-liu.github.io/reed-wetland-website/" target="_blank" rel="noopener" class="nav-cta">产品官网<span class="en"> Company Site</span></a>
+      </nav>
+      <button class="nav-toggle" aria-label="打开导航菜单" aria-expanded="false" aria-controls="mobile-nav">
+        <span></span><span></span><span></span>
+      </button>
     </div>
+    <nav class="mobile-nav" id="mobile-nav" aria-label="移动端导航" hidden>
+      <a href="#about">关于</a>
+      <a href="#product">作品</a>
+      <a href="#opensource">开源</a>
+      <a href="#news">动态</a>
+      <a href="#research">研究</a>
+      <a href="#contact">联系</a>
+      <a href="https://zheyu-julie-liu.github.io/reed-wetland-website/" target="_blank" rel="noopener">产品官网 →</a>
+    </nav>
+  </header>
+
+  <main>
+
+    <!-- ===== Hero ===== -->
+    <section class="hero">
+      <div class="hero-bg" aria-hidden="true"></div>
+      <div class="hero-inner hero-grid">
+        <div class="hero-text">
+          <p class="hero-eyebrow">
+            文旅 × 生态 · 游戏化互动产品
+            <span class="en en-block">Gamified Interactive Experiences for Tourism &amp; Conservation</span>
+          </p>
+          <h1 class="hero-title">
+            Zheyu (Julie) Liu
+            <span class="hero-title-en en">Sophi Interactive · Founder</span>
+          </h1>
+          <p class="hero-sub">
+            哲思创意创始人,现居南京。一人工作室 + AI 工具链,把文旅活动与自然保护做成可玩的游戏化体验——游戏是载体,真实目的在线下。
+            <span class="en en-block">Founder of a one-person studio building gamified interactive products — turning every tap into a reason to visit, understand, and care.</span>
+          </p>
+          <div class="hero-cta">
+            <a href="https://zheyu-julie-liu.github.io/reed-wetland-website/" target="_blank" rel="noopener" class="btn btn-primary btn-gold">产品官网 <span class="en en-cta">/ Company Site</span></a>
+            <a href="#product" class="btn btn-ghost">我的作品 <span class="en en-cta">/ Works</span></a>
+            <a href="https://github.com/zheyu-Julie-Liu" target="_blank" rel="noopener" class="btn btn-ghost">GitHub <span class="en en-cta">/ Repos</span></a>
+          </div>
+          <p class="hero-note">
+            已上线 3 个产品 · 芦苇荡观鸟模拟器 / 番禺公园故事地图 / 拾秋
+            <span class="en">· 3 products live · browser-playable, no download</span>
+          </p>
+        </div>
+        <div class="hero-art">
+          <img src="images/hero-wetland-art.jpg" alt="湿地水彩插画:翠鸟、水雉与鸊鷉的池塘场景">
+          <p class="hero-art-caption">把尚未落地的文旅策划案,先做成可玩的游戏化互动体验原型。<span class="en">Turn an unlaunched cultural-tourism plan into a playable prototype first.</span></p>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===== 关于 ===== -->
+    <section class="section" id="about">
+      <div class="container">
+        <p class="section-tag">关于 <span class="en">About</span></p>
+        <h2 class="section-title">
+          创业是现在进行时,研究是方法论底座
+          <span class="en en-block">Building now, grounded in planning &amp; cultural research</span>
+        </h2>
+
+        <!-- 个人定位:照片 | 身份主线(公司信息属于产品官网,此处不复述) -->
+        <div class="founder-row">
+          <figure class="founder-photo">
+            <img src="images/julie-portrait.jpg" alt="Julie Liu 职业照">
+            <figcaption>Julie Liu <span class="en">Founder, Sophi Interactive</span></figcaption>
+          </figure>
+          <div class="quote-card">
+            <p class="quote-title">身份主线</p>
+            <p class="quote-main">从「做规划」到「研究产业」再到「直接做产品」,做的始终是同一件事——</p>
+            <p class="quote-key">把土地上的资源与故事,<br>转化为公众可感知、可体验、可参与的产品。</p>
+            <p class="quote-foot">这个主页讲「我」:方法从哪里来、做过什么、为什么这样做。商务信息见 <a href="https://zheyu-julie-liu.github.io/reed-wetland-website/" target="_blank" rel="noopener">产品官网 →</a></p>
+          </div>
+        </div>
+
+        <div class="split">
+          <div>
+            <p><span class="point-label">创业者（现在进行时）</span>哲思创意（Sophi Interactive）创始人，专注文旅 × 生态场景的游戏化互动产品。已上线三件作品——它们都在验证同一件事：<strong>文旅和游戏只是载体，真实目的在线下</strong>——把人引向真实的场景，让在地的产业与生态被看见、被理解、被在意。<span class="en en-block">Founder of Sophi Interactive: three shipped products verifying one thesis — play is the carrier; the goal is on-site.</span></p>
+            <p><span class="point-label">研究是方法论底座</span>牛津布鲁克斯大学城市与区域规划本硕——学的正是<strong>自下而上</strong>的规划模式,本科毕业研究英国的<strong>邻里规划</strong>与社区参与。五年产业研究与咨询(中城规划、苏州赛迪),下功夫最深的是西苕溪文化基因挖掘:历时两个多月逐村调研,为流域 23 个村绘制文化基因图谱,撑起安吉农高区 172 页方案的文化灵魂。<span class="en en-block">Oxford Brookes BSc &amp; MSc — trained in bottom-up planning; undergraduate research on UK neighbourhood planning. Two months of village-by-village research mapped the cultural genes of 23 villages along West Tiaoxi.</span></p>
+            <p>当年给村做「<strong>村 → 人 → 产品</strong>」,现在给公园做「<strong>树 → 故事 → 游戏</strong>」,方法一脉相承。<span class="en en-block">Village → person → product, then tree → story → game — one method, carried forward.</span></p>
+          </div>
+          <div class="timeline">
+            <div class="tl-item"><span class="tl-dot"></span><p><strong>2026-10</strong> · 拾秋游戏模块双端上线 <span class="en en-block">Autumn game live on mini-program + Xiaohongshu</span></p></div>
+            <div class="tl-item"><span class="tl-dot"></span><p><strong>2026-09</strong> · 番禺公园故事地图上线,首个线下社区合作落地 <span class="en en-block">Story map launched; first on-site partnership</span></p></div>
+            <div class="tl-item"><span class="tl-dot"></span><p><strong>2026-05</strong> · 转型「个人 + AI 工具链」独立开发 <span class="en en-block">Went independent with an AI toolchain</span></p></div>
+            <div class="tl-item"><span class="tl-dot"></span><p><strong>2020–2024</strong> · 产业研究与咨询(苏体 / 中城规划 / 赛迪) <span class="en en-block">Industry research &amp; strategic consulting</span></p></div>
+            <div class="tl-item"><span class="tl-dot"></span><p><strong>2015–2019</strong> · 牛津布鲁克斯大学 城市与区域规划 本硕 <span class="en en-block">Oxford Brookes University, Urban Planning</span></p></div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===== 作品 ===== -->
+    <section class="section section-tint" id="product">
+      <div class="container">
+        <p class="section-tag">作品 <span class="en">Selected Work</span></p>
+        <h2 class="section-title">
+          三件已上线的作品,一个人跑完全程
+          <span class="en en-block">Three live works, delivered end-to-end by one person</span>
+        </h2>
+        <p class="section-sub">
+          这里只讲它们是什么、我为什么做、怎么做出来的;商务信息与合作模式,见下方产品官网入口。
+          <span class="en en-block">What they are, why I built them, and how — business details live on the company site below.</span>
+        </p>
+
+        <div class="feature-cards">
+          <article class="feature-card product-card">
+            <h3>芦苇荡巡护模拟器 <span class="en">Reed Bird-watching Simulator</span></h3>
+            <img src="images/reed-sim-screenshot.jpg" alt="芦苇荡巡护模拟器游戏截图:湿地场景、鸟类图鉴与观察进度" style="border-radius:12px;margin-bottom:var(--sp-2);width:100%;">
+            <img src="images/reed-sim-screenshot-2.jpg" alt="芦苇荡巡护模拟器游戏截图:芦苇丛场景与飞鸟" style="border-radius:12px;margin-bottom:var(--sp-3);width:100%;">
+            <p>基于 Godot 的自然保护互动展板,开发耗时 4 个月:78 种湿地鸟(三态 247 条实地记录)、6 层湿地生态场景、7 种真实鸟类行为、图鉴收集与巡护任务。纯 Web 构建,浏览器即开即玩。<span class="en en-block">78 wetland birds (247 field records), 6 ecological layers, 7 real behaviour systems — playable in browser, no download.</span></p>
+            <p class="links"><a href="https://play.wetlandbirdwatching.com" target="_blank" rel="noopener">正式试玩 →</a><a href="https://zheyu-julie.itch.io/reed-bird-watching-simulator" target="_blank" rel="noopener">itch.io →</a><a href="https://github.com/zheyu-Julie-Liu/Reed-Bird-watching-simulator" target="_blank" rel="noopener">GitHub →</a></p>
+          </article>
+
+          <article class="feature-card product-card">
+            <h3>番禺公园故事地图 + 拾秋 <span class="en">Panyu Park Story Map</span></h3>
+            <p>上海徐汇番禺公园的微信小程序。这座公园已有约百年历史——上世纪 20 年代曾是虹桥公墓。「代际记忆故事会」由此而来:茶话会请来的十几位老人,最年轻的 80 岁、大多 92–95 岁,他们的记忆就是这座公园的活档案。<span class="en en-block">A WeChat mini-program for Panyu Park, Shanghai — a park with ~100 years of history (a cemetery in the 1920s). Its history inspired our intergenerational memory tea-talks: a dozen residents aged 80–95, the living archives of the park.</span></p>
+            <p>「番禺寻友记」寻的是老中青幼四代社区居民,也包括昆虫、动物与植物——它们都是社区系统和生态系统的成员。与织生社区规划研究中心的在地理事共同发起,参与徐汇区社工部发起、四叶草堂承办的「共同关怀」社区共建议题。<span class="en en-block">"Panyu Friends" seeks four generations of residents — plus the insects, animals and plants: members of both the community and the ecosystem. Co-initiated with Zhisheng under the Co-Care programme.</span></p>
+            <p>产品侧:21 棵挂牌乡土树种故事地图 + 居民 UGC 故事墙;季节游戏「拾秋」2026-10-18 双端上线(小程序 + 小红书)——37 张自然笔记教玩家「落叶为什么属于公园」,以线上拼贴分享代替线下捡秋。<span class="en en-block">21 heritage-tree stories, a resident UGC story wall, and the seasonal game Shiqiu (launched 2026-10-18): 37 field notes teaching why fallen leaves belong to the park, with in-game collage instead of real collecting.</span></p>
+            <div class="qr-box">
+              <img src="images/panyu-storymap-qrcode.png" alt="番禺绿地故事墙小程序码">
+              <p><strong>微信扫码进入四叶CloverHub,打开「番禺绿地故事墙」</strong><br>游戏入口:地图页右上角「公园里的游戏」→ 拾秋<br><span class="en">Scan in WeChat · game entry at the map's top-right</span></p>
+            </div>
+          </article>
+
+          <article class="feature-card product-card">
+            <h3>番禺公园 3D 场景复原（进行中） <span class="en">three.js Reconstruction · In Progress</span></h3>
+            <img src="images/park-3d-wip.jpg" alt="3D 场景复原工作台:山坡与下凹绿道可交互预览,实拍结构约束的插画重绘与 28 个树位校核" style="border-radius:12px;margin-bottom:var(--sp-3);width:100%;">
+            <p>基于 60 张带 GPS 坐标的实拍照片，对公园做 three.js 3D 场景复原——山坡与下凹绿道可交互行走预览，生境以实拍结构约束重绘，28 个树位逐一校核；完成后计划推出观鸟游戏番禺公园定制版，作为第二个游戏模块上线故事地图小程序。<span class="en en-block">A three.js reconstruction from 60 geo-tagged photos — walkable slope &amp; sunken-trail preview, habitats redrawn with field-verified structure, 28 tree positions checked. In progress.</span></p>
+          </article>
+        </div>
+
+        <a class="site-banner" href="https://zheyu-julie-liu.github.io/reed-wetland-website/" target="_blank" rel="noopener">
+          <div class="banner-text">
+            <strong>产品的商务信息、合作模式与定价,都在产品官网</strong>
+            <span>机构定制 / 合作进展 / 故事地图入口 <span class="en">Business details, partnership progress and the story-map entry — on the company site</span></span>
+          </div>
+          <span class="banner-btn">访问产品官网 <span class="en en-cta">/ Visit Company Site →</span></span>
+        </a>
+      </div>
+    </section>
+
+    <!-- ===== 开源 ===== -->
+    <section class="section" id="opensource">
+      <div class="container">
+        <p class="section-tag">开源 <span class="en">Open Source</span></p>
+        <h2 class="section-title">
+          我把日常的开发管线开源出来
+          <span class="en en-block">The tooling behind my pipeline, open-sourced</span>
+        </h2>
+
+        <div class="card-grid grid-2">
+          <article class="feature-card">
+            <h3><a href="https://github.com/zheyu-Julie-Liu/zcode-agent-board" target="_blank" rel="noopener">zcode-agent-board →</a></h3>
+            <p>跨对话多 Agent 任务看板(ZCode 插件 + MCP server):不同对话里的 agent 通过原子文件锁认领与提交任务,带 boss 通道与交接协议——我日常跑 10+ agent 开发管线的工具。<span class="en en-block">A file-based multi-agent task board: agents claim and submit tasks via atomic file locks, with a boss channel and handover protocol.</span></p>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===== 动态 ===== -->
+    <section class="section section-tint" id="news">
+      <div class="container">
+        <p class="section-tag">动态 <span class="en">News</span></p>
+        <h2 class="section-title">
+          最近在发生的事
+          <span class="en en-block">What's happening lately</span>
+        </h2>
+        <div class="timeline">
+          <div class="tl-item"><span class="tl-dot"></span><p><strong>2026-10-18</strong> · 拾秋游戏模块双端上线(微信小程序 + 小红书小工具,番禺公园) <span class="en en-block">Shiqiu game shipped on WeChat mini-program + Xiaohongshu widget</span></p></div>
+          <div class="tl-item"><span class="tl-dot"></span><p><strong>2026-09</strong> · 番禺公园故事地图上线四叶草堂小程序;首个线下社区合作落地 <span class="en en-block">Story map launched; first on-site community partnership</span></p></div>
+          <div class="tl-item"><span class="tl-dot"></span><p><strong>2026-09</strong> · 芦苇荡观鸟模拟器启用国内正式入口 play.wetlandbirdwatching.com <span class="en en-block">Simulator's official CN portal went live</span></p></div>
+          <div class="tl-item"><span class="tl-dot"></span><p><strong>2026-08</strong> · 芦苇荡观鸟模拟器上线:GitHub Pages / itch.io 双平台可玩 <span class="en en-block">Reed Bird-watching Simulator live on GitHub Pages + itch.io</span></p></div>
+          <div class="tl-item"><span class="tl-dot"></span><p><strong>2026</strong> · 《计算机英语(第 6 版)》原作者之一交稿 <span class="en en-block">Computer English (6th ed.) co-author, delivered to press</span></p></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===== 研究 ===== -->
+    <section class="section" id="research">
+      <div class="container">
+        <p class="section-tag">研究 <span class="en">Research</span></p>
+        <h2 class="section-title">
+          方法论的来处
+          <span class="en en-block">Where the method comes from</span>
+        </h2>
+
+        <div class="card-grid">
+          <article class="feature-card">
+            <h3>西苕溪文化基因挖掘 <span class="en">West Tiaoxi Cultural Gene Mapping</span></h3>
+            <p>自创方法论,安吉农高区方案文化专题。两个多月逐村调研流域 23 个村:物质基因(产业/地理)+ 人文基因(名人/传说/民俗)分层编码,置于江南文化坐标比较;核心发现 23 村主体基因「和而不同」。人物与村两头都要研究透才能对上——苏东坡生平著作完整研究过(诗中「顾渚茶牙白于齿,梅溪木瓜红胜颊」直接连回安吉物产),陆羽、颜真卿、孝子王文殊、林学家陈嵘同法——最终落成苏东坡美食地图等产品体系,即「<strong>以村为根、以人为魂、以产品为形</strong>」。<span class="en en-block">Two months of village-by-village fieldwork: layered cultural-gene coding of 23 villages, matched with person-IPs through two-sided research (Su Shi's life and works studied in full), landing in the Su Shi food map — village as root, person as soul, product as form.</span></p>
+          </article>
+          <article class="feature-card">
+            <h3>社区土地信托与邻里规划 <span class="en">CLT &amp; Neighbourhood Planning · MSc Thesis</span></h3>
+            <p>本硕训练的核心正是自下而上的规划模式。Cornwall 集体案例研究:社区组织如何重塑正式住房政策——访谈发现,居民参与的动力来自文化认同,而非规划机制本身。这正是今天「番禺寻友记」社区共建项目的方法源头。<span class="en en-block">A collective case study in Cornwall, UK: how community-led organisations reshape formal housing policy — residents participate through cultural identity, not planning mechanisms. The methodological root of today's Panyu community project.</span></p>
+            <p class="links"><a href="./projects/master-thesis.md">阅读全文 →</a></p>
+          </article>
+          <article class="feature-card">
+            <h3>北京便利店空间分析 <span class="en">Convenience Stores, Beijing · Spatial Analysis</span></h3>
+            <p>北京二环内便利店 POI 与社会经济属性的关系建模:核密度 / DBSCAN 聚类 / 多元回归(Python / GeoPandas / QGIS)。<span class="en en-block">Modelling convenience-store POI against socio-economic profiles: kernel density, DBSCAN clustering, multiple regression.</span></p>
+            <p class="links"><a href="https://github.com/zheyu-Julie-Liu/qgis-data-analysis-writing-sample" target="_blank" rel="noopener">GitHub →</a></p>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===== 联系 ===== -->
+    <section class="section section-contact" id="contact">
+      <div class="container center">
+        <p class="section-tag">联系 <span class="en">Contact</span></p>
+        <h2 class="section-title">
+          聊聊你的场景,或者试试产品
+          <span class="en en-block">Tell me about your scene — or just play</span>
+        </h2>
+        <p class="section-sub">文旅机构 / 公园 / 公益组织 / 科教场馆的合作,与产品反馈同样欢迎。<span class="en en-block">Partnerships and product feedback equally welcome.</span></p>
+        <div class="hero-cta">
+          <a href="mailto:zheyu-julie-liu@hotmail.com" class="btn btn-primary">邮件联系 <span class="en en-cta">/ Email</span></a>
+          <a href="./projects/zheyuLIU_cv.pdf" class="btn btn-ghost">下载 CV <span class="en en-cta">/ Download CV</span></a>
+          <a href="https://github.com/zheyu-Julie-Liu" target="_blank" rel="noopener" class="btn btn-ghost">GitHub <span class="en en-cta">/ Repos</span></a>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>© 2026 Zheyu (Julie) Liu · 哲思创意 Sophi Interactive <span class="en">Research &amp; Interactive Products</span></p>
+      <p class="footer-en">
+        旗下产品:芦苇荡巡护模拟器 · Reed Bird-watching Simulator
+        · <a href="https://play.wetlandbirdwatching.com" target="_blank" rel="noopener">正式试玩 Play</a>
+        · <a href="https://zheyu-julie-liu.github.io/reed-wetland-website/" target="_blank" rel="noopener">产品官网 Company Site</a>
+        · Built with Godot · Designed with care for wetlands and the people who visit them
+      </p>
+    </div>
+  </footer>
+
+  <script>
+    (function () {
+      var toggle = document.querySelector('.nav-toggle');
+      var mobile = document.getElementById('mobile-nav');
+      toggle.addEventListener('click', function () {
+        var open = mobile.hasAttribute('hidden');
+        if (open) { mobile.removeAttribute('hidden'); } else { mobile.setAttribute('hidden', ''); }
+        toggle.setAttribute('aria-expanded', open ? 'true' : 'false');
+      });
+      mobile.addEventListener('click', function (e) {
+        if (e.target.tagName === 'A') { mobile.setAttribute('hidden', ''); toggle.setAttribute('aria-expanded', 'false'); }
+      });
+    })();
+  </script>
 </body>
 </html>
