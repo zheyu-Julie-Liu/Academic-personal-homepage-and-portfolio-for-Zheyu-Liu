@@ -72,7 +72,7 @@ My doctoral research aims to systematically uncover: Why and how does macro-scal
 
 ## 📄 Download My CV
 
-[![Download PDF](https://img.shields.io/badge/Download-My_CV_PDF-blue.svg)](./projects/zheyuLIU_cv.pdf)
+[![Download PDF](https://img.shields.io/badge/Download-My_CV_PDF-blue.svg)](./projects/JulieLiu_cv.pdf)
 
 
 
